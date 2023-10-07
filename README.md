@@ -1,5 +1,7 @@
 # Amazon Frontend Design Form
 
+![image](https://github.com/anupam-singh88/amazon_clone_frontend/assets/89381022/cec07966-ef72-4d8e-83f7-02d2a7485233)
+
 ## Description
 This project is a responsive Amazon frontend page using HTML and CSS.
 
